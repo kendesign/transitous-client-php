@@ -3,6 +3,8 @@
 A tiny web page with a map where you can calculate a public transport connection from A to B.
 Nothing else. Routing data comes from [Transitous](https://transitous.org), the map from OpenStreetMap.
 
+Developed by KENDESIGN for the juwesta Bildungszentrum, a vocational training provider in Felsberg, Germany.
+
 What it does
 
 - search a start and a destination (address or stop) or click them on the map
